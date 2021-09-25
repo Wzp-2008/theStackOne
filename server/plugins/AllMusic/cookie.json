@@ -1,0 +1,30 @@
+{
+  "cookieStore": {
+    "localhost": [
+      {
+        "name": "NMTID",
+        "value": "00OIyqw3Ke4hE1od0T0rVWTJuFJlVgAAAF5IQ8ukw",
+        "expiresAt": 1935117313274,
+        "domain": "localhost",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "persistent": true,
+        "hostOnly": true
+      }
+    ],
+    "music.163.com": [
+      {
+        "name": "NMTID",
+        "value": "00O9eWfr4tX_96QVkRtl3Z4wLU3SdsAAAF5HU4BLQ",
+        "expiresAt": 1935054321818,
+        "domain": "music.163.com",
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "persistent": true,
+        "hostOnly": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+Lobby:
+  World: 'lobby'
+  X: 0
+  Y: 80
+  Z: 0
+Match:
+  MaxPlayer: 16
+  MinPlayer: 4
+wordsnum: 8
+words:
+  1:
+    - '放置工作台'
+    - 'place crafting_table'
+  2:
+    - '破坏方块'
+    - 'break *'
+  3:
+    - '放置方块'
+    - 'place *'
+  4:
+    - '合成东西'
+    - 'craft *'
+  5:
+    - '手拿一个石镐子'
+    - 'hand stone_pickaxe'
+  6:
+    - '下蹲'
+    - 'sneak'
+  7:
+    - '手拿铁剑'
+    - 'hand iron_sword'
+  8:
+    - '低头'
+    - 'head down'
+  9:
+    - '抬头'
+    - 'head up'
+  10:
+    - '挖到铁矿'
+    - 'break iron_ore'
+  11:
+    - '挖到煤炭'
+    - 'break coal_ore'
+  12:
+    - '获得铁锭'
+    - 'get iron_ingot'
+  13:
+    - '获得物品'
+    - 'get *'
+  14:
+    - '死亡'
+    - 'bykill *'
+  15:
+    - '被一只苦力怕炸死'
+    - 'bykill creeper'
+  16:
+    - '被一只僵尸杀死'
+    - 'bykill zombie'
+  17:
+    - '被一只小白射♂死'
+    - 'bykill skeleton'
+  18:
+    - '站到石头上'
+    - 'onblock stone'
+  19:
+    - '站到草方块上'
+    - 'onblock grass_block'

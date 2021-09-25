@@ -1,0 +1,5 @@
+name: TheStackOne
+version: 1.0-SNAPSHOT
+main: org.wzpmc.thestackone.Main
+api-version: 1.16
+authors: [ wzpMC ]
